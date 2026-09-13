@@ -545,6 +545,7 @@ ThorVG is designed to be portable and extensible across various platforms. The f
 * [ThorVG Android](https://github.com/thorvg/thorvg.android) – Kotlin-based ThorVG support for Android.
 * [ThorVG Flutter](https://github.com/thorvg/thorvg.flutter) - A Flutter plugin for using ThorVG on Android and iOS.
 * [ThorVG Swift](https://github.com/thorvg/thorvg.swift) - Swift bindings for rendering vector graphics with ThorVG.
+* [ThorVG Toolkit](https://github.com/thorvg/thorvg.toolkit) - A lightweight toolkit for ThorVG app development.
 * [ThorVG Unity](https://github.com/thorvg/thorvg.unity) – ThorVG integration for Unity using C#.
 * [ThorVG Web](https://github.com/thorvg/thorvg.web) - WebAssembly-based integration of ThorVG for web apps.
 
